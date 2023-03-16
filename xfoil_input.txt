@@ -1,0 +1,9 @@
+NACA 2412
+PPAR
+N 35
+
+
+PSAV Save_Airfoil.txt
+OPER
+Alfa 0
+CPWR Save_Cp.txt
